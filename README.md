@@ -1,2 +1,2 @@
-# simple-note-site
+# simple-node-site
 Learning node
